@@ -1029,7 +1029,7 @@ case 'carga': {
 }
       
     
-case 'play2': {
+case 'play2x': {
     const axios = require('axios');
     const fs = require('fs');
     const path = require('path');
@@ -1822,7 +1822,7 @@ case "git": {
 }
 
         
-case 'play': {
+case 'playx': {
     const axios = require('axios');
     const yts = require('yt-search');
     const fs = require('fs');
@@ -1938,7 +1938,7 @@ case 'play': {
     break;
 }
 
-case 'ytmp4': {
+case 'ytmp4x': {
     const axios = require('axios');
     const fs = require('fs');
     const path = require('path');
@@ -2159,7 +2159,7 @@ case 'ytmp4': {
     break;
 }
         
-case 'ytmp3': {
+case 'ytmp3x': {
   const axios = require('axios');
   const fs = require('fs');
   const path = require('path');
@@ -2496,7 +2496,7 @@ case 'play5': {
     break;
 }
       
-case 'play6': {
+case 'play2': {
     const yts = require('yt-search');
     const axios = require('axios');
     const fs = require('fs');
@@ -2695,7 +2695,7 @@ Disfrútelo y continúe explorando el mundo digital.
     break;
 }
 
-case 'play1': {
+case 'play': {
     const yts = require('yt-search');
     const axios = require('axios');
     const fs = require('fs');
